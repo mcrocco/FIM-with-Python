@@ -35,4 +35,4 @@
 <p>- If the get_hash variable does not contain a hash, it means that someone has deleted the file. The loop would then prompt the user that the file has been deleted.</p>
 <p>- If the get_hash variable is different from the hash variable, then it means that someone has modified the file in some way. The loop would then prompt the user that the file has been modified.</p>
 
-<p>That's It! Run the code to the file of your choosing to make sure no one changes your file!</p>
+<p>That's It! Run the code to the file of your choosing to ensure you are alerted if anything changes to your file!</p>
