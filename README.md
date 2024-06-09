@@ -1,5 +1,6 @@
 # FIM-with-Python
-<p>In this project, I create a File Integrity Monitor (FIM) using Python.</p>
+<p>In this project, I create a File Integrity Monitoring (FIM) System using Python.</p>
+<img src="https://i.imgur.com/2UCYuPe.jpeg" alt="FIM Picture"/>
 
 <h2>Resources/Technologies Used:</h2>
 <p> - MacOS</p>
